@@ -656,10 +656,8 @@ h1{
   color: #626262;
   @include fontsize(14);
   }  
-#contents #main {
-  th {
+#contents #main th{
     padding-right: 20px;
-  }
 }
 
 
